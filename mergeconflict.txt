@@ -1,1 +1,1 @@
-This file was created in github to see what happens when there's a merge conflict.
+This file has been edited to create a merge conflict.
